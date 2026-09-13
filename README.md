@@ -21,7 +21,7 @@
 
 - 🎓 Computer Science Graduate
 - ☕ Focused on Java Backend Development
-- 🌱 Currently learning Spring Boot and backend development
+- 🌱 Expanding my Spring Boot backend development skills
 - 🔨 Building projects using REST APIs, databases and external APIs
 - 📍 Mumbai, India
 
