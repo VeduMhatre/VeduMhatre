@@ -28,7 +28,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
 **Languages**
 - Java
 - SQL
@@ -49,6 +48,24 @@
 - IntelliJ IDEA
 - Postman
 - Apache Tomcat
+
+---
+
+<h2>🔭 Currently Working On</h2>
+
+<h3>📋 TaskTracker — Full Stack</h3>
+
+<p>
+A task management application where users can create, edit, and delete tasks
+with titles, descriptions, and due dates/times. The application automatically
+detects overdue tasks and sends email notifications for pending tasks.
+JWT-based authentication and authorization are used to secure the application.
+</p>
+
+<p>
+<strong>Tech Stack:</strong>
+Java • Spring Boot • React.js • MySQL • JPA • JWT • Scheduling • Email Notifications
+</p>
 
 ---
 
