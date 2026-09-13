@@ -73,7 +73,6 @@ through an external weather API.
 Spring Boot → Scheduling → Database Integration & JPA → Authentication & Authorization (JWT) → Deployment
 
 ---
----
 
 ## 🤝 Connect With Me
 
