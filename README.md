@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Vedant Mhatre 👋</h1>
 
-<!--
-**VeduMhatre/VeduMhatre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Java Developer | Spring Boot | Backend Development</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building backend applications, REST APIs and practical Java projects.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedant-mhatre-dev26/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vedantmhatre408@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Graduate
+- ☕ Focused on Java Backend Development
+- 🌱 Currently learning Spring Boot and backend development
+- 🔨 Building projects using REST APIs, databases and external APIs
+- 📍 Mumbai, India
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Java
+- SQL
+- Python
+
+**Backend**
+- Spring Boot
+- REST APIs
+- JDBC
+- Servlets / JSP
+
+**Database**
+- MySQL, PL/SQL
+- MongoDB
+
+**Tools**
+- Git & GitHub
+- IntelliJ IDEA
+- Postman
+- Apache Tomcat
+
+---
+
+## 🚀 Featured Projects
+
+### 💱 Multi Currency Converter
+Spring Boot application that retrieves exchange rates from an external API
+and converts amounts between currencies.
+
+**Java • Spring Boot • REST API • RestClient**
+
+### 🌦 Weather by Latitude & Longitude
+Application that retrieves weather information using latitude and longitude
+through an external weather API.
+
+**Java • Spring Boot • WebClient • REST API**
+
+---
+
+## 📚 Currently Learning
+
+Spring Boot → Scheduling → Database Integration & JPA → Authentication & Authorization (JWT) → Deployment
+
+---
+---
+
+## 🤝 Connect With Me
+
+[LinkedIn] https://www.linkedin.com/in/vedant-mhatre-dev26/
+
