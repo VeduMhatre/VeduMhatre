@@ -38,6 +38,7 @@
 - REST APIs
 - JDBC
 - Servlets / JSP
+- Authentication and Authorization
 
 **Database**
 - MySQL, PL/SQL
