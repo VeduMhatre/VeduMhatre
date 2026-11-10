@@ -77,7 +77,7 @@ and converts amounts between currencies.
 
 **Java • Spring Boot • REST API • RestClient**
 
-### 🌦 Weather by Latitude & Longitude
+### 🌦 Weather by Latitude & Longitude -- https://vedumhatre.github.io/WeatherAppProj10Nov26/
 Application that retrieves weather information using latitude and longitude
 through an external weather API.
 
