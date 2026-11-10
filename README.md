@@ -71,6 +71,11 @@ Java • Spring Boot • React.js • MySQL • JPA • JWT • Scheduling • E
 
 ## 🚀 Featured Projects
 
+### 🚆 Train Problem Calculator -- https://vedumhatre.github.io/TrainProblemComputation/
+Web calculator that solves railway aptitude problems such as train length, platform length, relative speed, crossing time, meeting speed ratio and train speed.
+
+**Java • Spring Boot • HTML • CSS • JavaScript**
+
 ### 💱 Multi Currency Converter
 Spring Boot application that retrieves exchange rates from an external API
 and converts amounts between currencies.
